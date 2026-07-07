@@ -1,7 +1,20 @@
-<img align="right" alt="Coding" width="380"
-src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<table>
+<tr>
+<td>
 
-<h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
+<h1>Hi 👋, I'm Mayank Sharma</h1>
+
+AI/ML Engineer | Full Stack Developer | Java Developer
+
+</td>
+
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 <h3 align="center">
 AI/ML Engineer | Full Stack Developer | Java Developer
