@@ -63,11 +63,6 @@ Software Engineer @ Top Product Company
 
 ---
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=mayanksharma0055&theme=tokyo-night)
-
----
 
 ## 🏆 GitHub Trophies
 
