@@ -1,12 +1,4 @@
-<br clear="right">
-<img align="right" alt="Coding" width="380"
-src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student passionate about software engineering, AI/ML, and Full Stack Development. I enjoy designing efficient systems, building user-focused applications, and solving challenging algorithmic problems.
-
-My interests include Artificial Intelligence, Backend Development, Cloud Technologies, and System Design. I'm continuously learning new technologies and contributing to projects that create meaningful real-world impact.
+<h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 
 <h3 align="center">
 AI/ML Engineer | Full Stack Developer | Java Developer
@@ -16,25 +8,36 @@ AI/ML Engineer | Full Stack Developer | Java Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;Java+Developer;React+Developer;Always+Learning+New+Things" />
 </p>
 
+<img align="right"
+     width="380"
+     hspace="20"
+     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+     
+<p align="left">
+<b>🚀 ABOUT ME</b>
+</p>
+
+I'm a Computer Science student passionate about software engineering, AI/ML, and Full Stack Development.
+
+I enjoy designing efficient systems, building user-focused applications, and solving challenging algorithmic problems.
+
+My interests include Artificial Intelligence, Backend Development, Cloud Technologies, and System Design.
+
+
+
+<br clear="right">
+
 ---
-## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about software engineering, AI/ML, and Full Stack Development. I enjoy designing efficient systems, building user-focused applications, and solving challenging algorithmic problems.
-
-My interests include Artificial Intelligence, Backend Development, Cloud Technologies, and System Design. I'm continuously learning new technologies and contributing to projects that create meaningful real-world impact.
-
-
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mayank-sharma-141a1a295/">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:mayanksharma0055@gmail.com">
+<a href="mailto:YOURMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -62,6 +65,11 @@ My interests include Artificial Intelligence, Backend Development, Cloud Technol
 
 ---
 
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mayanksharma0055&theme=tokyo-night)
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -72,6 +80,8 @@ My interests include Artificial Intelligence, Backend Development, Cloud Technol
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=mayanksharma0055&color=blueviolet)
+
+
 ## 🚀 Featured Projects
 
 ### 🤖 VoxAnalyst
