@@ -1,21 +1,12 @@
-<div align="center">
-<table>
-<tr>
-<td>
+<br clear="right">
+<img align="right" alt="Coding" width="380"
+src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<h1>Hi 👋, I'm Mayank Sharma</h1>
+## 👨‍💻 About Me
 
-AI/ML Engineer | Full Stack Developer | Java Developer
+I'm a Computer Science student passionate about software engineering, AI/ML, and Full Stack Development. I enjoy designing efficient systems, building user-focused applications, and solving challenging algorithmic problems.
 
-</td>
-
-<td>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350"/>
-
-</td>
-</tr>
-</table>
+My interests include Artificial Intelligence, Backend Development, Cloud Technologies, and System Design. I'm continuously learning new technologies and contributing to projects that create meaningful real-world impact.
 
 <h3 align="center">
 AI/ML Engineer | Full Stack Developer | Java Developer
