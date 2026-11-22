@@ -81,6 +81,12 @@ My interests include Artificial Intelligence, Backend Development, Cloud Technol
 
 ![](https://komarev.com/ghpvc/?username=mayanksharma0055&color=blueviolet)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayanksharma0055/mayanksharma0055/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 
 ## 🚀 Featured Projects
 
